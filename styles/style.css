@@ -1,3 +1,8 @@
+* {
+	border: 25px dashed green;
+	border-radius: 25%;
+	box-shadow: 5px 5px 5px blue;
+}
 body {
 	background: #bada55;
 }
